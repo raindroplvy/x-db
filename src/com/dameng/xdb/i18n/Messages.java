@@ -4,6 +4,11 @@ import java.util.ResourceBundle;
 
 import com.dameng.xdb.util.StringUtil;
 
+/**
+ *
+ * @author ychao
+ * @version $Revision: $, $Author: $, $Date: $
+ */
 public class Messages
 {
     private final static String RESOURCE_NAME = "com.dameng.xdb.i18n.messages";
